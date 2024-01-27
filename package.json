@@ -1,0 +1,14 @@
+{
+  "name": "optidomains-ethers-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Opti-domains/ethers-demo",
+  "author": "Chomtana <Chomtana001@gmail.com>",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "@types/inquirer": "^9.0.7",
+    "ethers": "^6.10.0",
+    "inquirer": "^9.2.12"
+  }
+}
